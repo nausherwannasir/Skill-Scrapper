@@ -25,3 +25,4 @@ npm start -- "software engineer"
 npm test
 \`\`\`
 - Clarify how to configure .env for API_URL
+Updated README with clearer instructions
